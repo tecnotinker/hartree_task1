@@ -1,0 +1,13 @@
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\LuisManuel\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\LuisManuel\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\LuisManuel\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\LuisManuel\source\repos\Task1\Task1\bin\Debug\CalcLibrary.dll
+C:\Users\LuisManuel\source\repos\Task1\Task1\bin\Debug\CalcLibrary.pdb
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CopyComplete
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\LuisManuel\source\repos\Task1\Task1\obj\Debug\Task1.Form1.resources
